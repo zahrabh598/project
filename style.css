@@ -22,8 +22,9 @@ opacity: 1;
 .left {
   width: 490px;
   height:700px;
-  background: url("left-image.jpg");
+  background:
     linear-gradient(rgba(10,92,255,0.85), rgba(26,156,255,0.85)),
+  url("left-image.jpg");
   background-size: cover;
   background-position: center;
   color: white;
